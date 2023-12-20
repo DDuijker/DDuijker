@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. Here's a bit about me:
+
+- 🚀 I enjoy learning new languages and technologies
+- 🌐 Currently diving into python!
+- 📚 Studying Software Development at Windesheim University
+- 💡 Always eager to learn and contribute
+- 🎯 My goal is to become a competent and knowledgeable software developer!
+- ⚡ In my free time you can find me drawing, gaming and listening to music
+
+### 🔧 Technologies & Tools
+- 🐍 Python (Django, Flask)
+- </> C# (API's, MVC, MVVM) 
+- ⚛️ React
+- 📦 OOP
+- 🎨 CSS Frameworks: Bootstrap, Tailwind
+
+
 <!--
 **DDuijker/DDuijker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
