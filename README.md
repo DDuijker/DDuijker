@@ -3,7 +3,7 @@
 I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. Here's a bit about me:
 
 - 🚀 I enjoy learning new languages and technologies
-- 🌐 Currently diving into python!
+- 🌐 Currently diving into C#!
 - 📚 Studying Software Development at Windesheim University
 - 💡 Always eager to learn and contribute
 - 🎯 My goal is to become a competent and knowledgeable software developer!
