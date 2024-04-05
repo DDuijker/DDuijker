@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. Here's a bit about me:
+I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. I am currently holding my internship at Van Lanschot Kempen and that's why I might not be as active as before! So no worries, I never stopped coding ;).
+
+Here's a bit about me:
 
 - 🚀 I enjoy learning new languages and technologies
-- 🌐 Currently diving into C#!
+- 🌐 Currently diving into Angular and C# .Net!
 - 📚 Studying Software Development at Windesheim University
 - 💡 Always eager to learn and contribute
 - 🎯 My goal is to become a competent and knowledgeable software developer!
@@ -11,7 +13,8 @@ I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy
 
 ### 🔧 Technologies & Tools
 - 🐍 Python (Django, Flask)
-- </> C# (API's, MVC, MVVM) 
+- </> C# (API's, MVC, MVVM)
+- 🅰️ Angular
 - ⚛️ React
 - 📦 OOP
 - 🎨 CSS Frameworks: Bootstrap, Tailwind
