@@ -18,6 +18,7 @@ Here's a bit about me:
 - ⚛️ React
 - 📦 OOP
 - 🎨 CSS Frameworks: Bootstrap, Tailwind
+- ☁️ Azure and git for version control 
 
 
 <!--
