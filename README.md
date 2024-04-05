@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. I am currently holding my internship at Van Lanschot Kempen and that's why I might not be as active as before! So no worries, I never stopped coding ;).
+I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. I am currently holding my Software Developer internship at Van Lanschot Kempen, that's why I might not be as active on here as before! So no worries, I never stopped coding ;).
 
 Here's a bit about me:
 
