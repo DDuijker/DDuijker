@@ -5,7 +5,7 @@ I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy
 Here's a bit about me:
 
 - 🚀 I enjoy learning new languages and technologies
-- 🌐 Currently diving into Angular and C# .Net!
+- 🌐 Recently into Angular and C# .Net!
 - 📚 Studying Software Development at Windesheim University
 - 💡 Always eager to learn and contribute
 - 🎯 My goal is to become a competent and knowledgeable software developer!
