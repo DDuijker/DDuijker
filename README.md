@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. I am currently in my fourth and final year of my studies. Here you can find some projects I have done and am currently working on in my free time!
+I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. I just graduated! 
 
 Here's a bit about me:
 
