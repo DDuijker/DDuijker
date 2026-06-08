@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. I just graduated! 
+I'm Djoeke Duijker, a passionate software developer and tech enthusiast. I enjoy programming and solving complex problems. I am working as a backend engineer at Albert Heijn! 
 
 Here's a bit about me:
 
 - 🚀 I enjoy learning new languages and technologies
-- 🌐 Recently into Angular and C# .Net!
+- 🌐 Recently into Kotlin and Springboot!
 - 📚 Studying Software Development at Windesheim University
 - 💡 Always eager to learn and contribute
 - 🎯 My goal is to become a competent and knowledgeable software developer!
 - ⚡ In my free time you can find me drawing, gaming and listening to music
 
 ### 🔧 Technologies & Tools
-- 🐍 Python (Django, Flask)
+- 🤖 Kotlin, Springboot
 - </> C# (API's, MVC, MVVM)
 - 🅰️ Angular
 - ⚛️ React
